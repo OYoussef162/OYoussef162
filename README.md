@@ -24,7 +24,7 @@
 ## 🚀 Projects
 - [Personal Website](https://github.com/OYoussef162/personal-website)
 - To-Do List App
-- Responsive landing pages
+- [Quran Tab Landing Page](https://github.com/OYoussef162/quran-tab-landing-page)
 
 ## 📫 Connect with Me
 - Email: omaryoussef1621999@egmail.com
